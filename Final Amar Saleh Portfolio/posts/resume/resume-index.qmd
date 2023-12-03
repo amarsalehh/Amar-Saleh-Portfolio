@@ -1,0 +1,10 @@
+---
+title: "Resume"
+author: "Amar Saleh"
+date: "2023-11-30"
+categories: [Resume]
+---
+
+Here is my resume showcasing my work experience and educational details.
+
+![](thumbnail.jpg){width="366"}

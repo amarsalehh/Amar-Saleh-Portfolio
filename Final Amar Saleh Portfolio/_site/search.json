@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "Greetings all! My blog will be covering some background about me along with an exciting topic where I apply my knowledge!"
+  },
+  {
+    "objectID": "posts/Amar's Post - Code/index.html",
+    "href": "posts/Amar's Post - Code/index.html",
+    "title": "Linear Regression",
+    "section": "",
+    "text": "I will be reviewing the code, reasoning, and outcomes of a linear regression problem from a class lab assignment I completed.\n\n\n'data.frame':   999 obs. of  12 variables:\n $ fage    : int  NA NA 19 21 NA NA 18 17 NA 20 ...\n $ mage    : int  13 14 15 15 15 15 15 15 16 16 ...\n $ mature  : chr  \"younger mom\" \"younger mom\" \"younger mom\" \"younger mom\" ...\n $ weeks   : int  39 42 37 41 39 38 37 35 38 37 ...\n $ premie  : chr  \"full term\" \"full term\" \"full term\" \"full term\" ...\n $ visits  : int  10 15 11 6 9 19 12 5 9 13 ...\n $ marital : chr  \"married\" \"married\" \"married\" \"married\" ...\n $ gained  : int  38 20 38 34 27 22 76 15 NA 52 ...\n $ weight  : num  7.63 7.88 6.63 8 6.38 5.38 8.44 4.69 8.81 6.94 ...\n $ gender  : chr  \"male\" \"male\" \"female\" \"male\" ...\n $ habit   : chr  \"nonsmoker\" \"nonsmoker\" \"nonsmoker\" \"nonsmoker\" ...\n $ whitemom: chr  \"not white\" \"not white\" \"white\" \"white\" ...\n\n\n\n\n\nHere is a rundown of my process:\n\nIn this lab assignment I started off by loading all the libraries I would need.\nI then inputted a code to read the data on hand before getting rid of the lowbirthweight.\nAfter, I ensured that all numeric and factor variables were properly coded as so.\nI went on to recognize any absent values and used a code to utilize median amounts in place of absent numeric variables and mode amounts in place of absent categorical variables.\nThen, I had to decide which of the variables had the greatest connection, keeping absolute value in mind, to our target variable. To better display this interaction between the variables, I made use of a scatterplot and included a linear regression line.\nWhat does the outcome mean?\nThe scatterplot and linear regression line showcased that with the variables, weeks and weight, there appears to be a positive correlation between the two. To sum it up, as the weeks in which the pregnancy lasted increased, the baby’s weight in pounds when delivered also increased."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Amar Saleh",
+    "section": "",
+    "text": "Hello everyone! My name is Amar Saleh and I am working towards completing an Advanced Data Analytics MS from UNT. My undergraduate years were spent at UTA where I graduated with a Finance BBA in 2021. My love for analyzing numbers is what inspired me to pursue a finance degree. Upon graduation I became more fascinated with the technology field and was motivated to find a way to intertwine my love for analytics with the tech world- data analytics was my answer! I work as an auditor for a cable company where I help ensure all data collected about the boxes is correct along with confirming all necessary boxes are accounted for.\nExperience in Word, Excel, PowerPoint, RStudio, Python, Linux, SAS"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Amar Saleh",
+    "section": "",
+    "text": "Linear Regression\n\n\n\n\n\n\n\nTopic Analysis\n\n\n\n\n\n\n\n\n\n\n\nNov 30, 2023\n\n\nAmar Saleh\n\n\n\n\n\n\n  \n\n\n\n\nResume\n\n\n\n\n\n\n\nResume\n\n\n\n\n\n\n\n\n\n\n\nNov 30, 2023\n\n\nAmar Saleh\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nWelcome\n\n\n\n\n\n\n\n\n\n\n\nNov 30, 2023\n\n\nAmar Saleh\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/resume/resume-index.html",
+    "href": "posts/resume/resume-index.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Here is my resume showcasing my work experience and educational details."
+  }
+]

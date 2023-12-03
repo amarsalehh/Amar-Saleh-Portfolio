@@ -1,0 +1,20 @@
+---
+title: "Amar Saleh"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: outlook
+      text: Outlook
+      href: https://outlook.com/amarsaleh2@my.unt.edu
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+    - icon: github
+      text: Github
+      href: https://github.com/amarsalehh
+---
+
+Hello everyone! My name is Amar Saleh and I am working towards completing an Advanced Data Analytics MS from UNT. My undergraduate years were spent at UTA where I graduated with a Finance BBA in 2021. My love for analyzing numbers is what inspired me to pursue a finance degree. Upon graduation I became more fascinated with the technology field and was motivated to find a way to intertwine my love for analytics with the tech world- data analytics was my answer! I work as an auditor for a cable company where I help ensure all data collected about the boxes is correct along with confirming all necessary boxes are accounted for.
+
+Experience in Word, Excel, PowerPoint, RStudio, Python, Linux, SAS

@@ -1,0 +1,10 @@
+---
+title: "Welcome To My Blog"
+author: "Amar Saleh"
+date: "2023-11-30"
+categories: [Welcome]
+---
+
+Greetings all! My blog will be covering some background about me along with an exciting topic where I apply my knowledge!
+
+![](thumbnail.jpg){width="366"}
